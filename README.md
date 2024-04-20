@@ -1,5 +1,7 @@
 # Wheel of Fortune for PowerPoint
 
+Placeholder Text
+
 <p align="center">
 <img src="./WoFPPTScreenshot.png" alt="Wheel of Fortune for PowerPoint" width="560">
 </p>
